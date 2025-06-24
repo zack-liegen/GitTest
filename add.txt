@@ -2,5 +2,11 @@
  手动解决冲突
 这里加了另外一点内容
 修改了点内容
+
+ 手动解决冲突
 AAAAAAA
 AAAAAAAAAA
+
+
+BBBBBBBBBBBBBBBBBBB
+
