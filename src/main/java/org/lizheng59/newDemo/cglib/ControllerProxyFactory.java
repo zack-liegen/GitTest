@@ -1,7 +1,7 @@
-package org.lizheng59.newDemo.proxy;
+package org.lizheng59.newDemo.cglib;
 
 public class ControllerProxyFactory {
-//
+
 //    public static <T> T createProxy(T target, Class<T> interfaceType) {
 //        Objects.requireNonNull(target);
 //        Objects.requireNonNull(interfaceType);

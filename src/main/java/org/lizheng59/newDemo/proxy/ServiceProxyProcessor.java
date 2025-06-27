@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Proxy;
 import java.util.Arrays;
-@Component
+//@Component
 public class ServiceProxyProcessor implements BeanPostProcessor {
     @Override
     public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {

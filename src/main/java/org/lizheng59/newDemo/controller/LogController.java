@@ -1,6 +1,7 @@
 package org.lizheng59.newDemo.controller;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import org.lizheng59.newDemo.annotation.EnableControllerProxy;
 import org.lizheng59.newDemo.entity.LogInfo;
 import org.lizheng59.newDemo.model.Result;
 import org.lizheng59.newDemo.service.impl.LogService;
@@ -14,6 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 
 @RestController
 @RequestMapping("/log")
+@EnableControllerProxy
 public class LogController {
     @Autowired
     LogService LogService;
