@@ -1,6 +1,0 @@
-no parent 
-
-children
-child
-child
-child
