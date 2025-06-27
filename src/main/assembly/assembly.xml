@@ -1,7 +1,7 @@
 <assembly>
     <id>make-assembly</id>
     <formats>
-        <format>tar.gz</format>
+        <format>zip</format>
     </formats>
     <!--tar.gz压缩包下是否生成和项目名相同的根目录-->
     <includeBaseDirectory>true</includeBaseDirectory>
